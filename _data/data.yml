@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     tagline: David Neihguk
     tagline: Acoustics Engineer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: david.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: davidneihguk@gmail.com
