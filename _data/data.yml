@@ -91,20 +91,21 @@ experiences:
           - Regional trains
           - Metros
           - Light rail vehicles
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Lead Engineer
+      time: 2010 - 2017
+      company: Mahindra & Mahindra Ltd, Chennai
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
+        As a Senior Engineer in the Method Development Group. My job is related to 
+        mathematical modelling of automotive systems to predict how much of a 
+        system/vehicle performance we can achieve to ensure First Time Right and 
+        Every Time Right design. I developed applications such as sound transmission 
+        loss of mufflers, torsional vibration of drivelines and vibro- acoustics of 
+        steering hose, to name a few.
+          - Passenger Cars
+          - Commercial vehicles
+    - role: Internship
       time: 2012 - 2014
-      company: Amazon, London
+      company: BARC, Mumbai
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
