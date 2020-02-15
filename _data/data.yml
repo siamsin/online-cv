@@ -99,14 +99,12 @@ experiences:
           - Passenger Cars
           - Commercial vehicles
     - role: Internship
-      time: 2012 - 2014
+      time: June 2009 - July 2009
       company: BARC, Mumbai
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Simulation of high temperature gas flow in a plasma chamber. Learned techniques 
+        of geometry creation and meshing in Gambit. Gained skills to set up CFD model, 
+        create load cases and perform parametric studies.
           - Bullet point
           - Bullet point
 projects:
