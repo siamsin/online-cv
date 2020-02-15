@@ -128,7 +128,7 @@ publications:
       Examples of research output.
     papers:
       - title: Acoustic Analysis of a Compact Muffler for Automotive Application
-        link: "#https://doi.org/10.4271/2017-01-9550"
+        link: "https://doi.org/10.4271/2017-01-9550"
         authors: Neihguk, D., Munjal, M., Ram, A., and Prasad, A.
         conference: SAE Int. J. Veh. Dyn., Stab., and NVH 1(2):97-111, 2017.
 
