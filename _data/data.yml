@@ -105,8 +105,14 @@ experiences:
         Simulation of high temperature gas flow in a plasma chamber. Learned techniques 
         of geometry creation and meshing in Gambit. Gained skills to set up CFD model, 
         create load cases and perform parametric studies.
-          - Bullet point
-          - Bullet point
+     - role: Internship
+      time: May 2008 - July 2008
+      company: Gas dynamics laboratory, Indian Institute of Technology, Madras
+      details: |
+        Study of shock wave transition in a foldable wedge. Acquired skills to design and 
+        fabricate a manually operated foldable wedge. Study Schileren shadowgraph and use 
+        it to experimentally determine the critical angle for shock transition in a wedge 
+        in a supersonic wind tunnel.
 projects:
     title: Projects
     intro: >
