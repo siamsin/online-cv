@@ -117,13 +117,11 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Examples of projects undertaken.
     assignments:
-      - title: Velocity
+      - title: M.Tech Thesis Topic
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Acoustic analysis of forked dual muffler exhaust system."
 
       - title: DevStudio
         link: "#"
