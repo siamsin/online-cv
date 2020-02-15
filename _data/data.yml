@@ -132,8 +132,7 @@ publications:
     intro: |
       Examples of research output.
     papers:
-      - title: The Art of Computer Programming. Neihguk, D., Munjal, M., Ram, A., and Prasad, A., 
-        "Acoustic Analysis of a Compact Muffler for Automotive Application," SAE Int. J. Veh. Dyn., Stab., and NVH 1(2):97-111, 2017.
+      - title: The Art of Computer Programming. 
         link: "#"
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
