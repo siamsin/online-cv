@@ -42,11 +42,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      An acoustics enthusiast, expertise in Automotive & Train (Railway) 
-      product development with focus on Acoustics (Noise) and Vibration 
-      characteristics. Proven innovation of new products using system 
-      and component target setting to achieve customer requirements 
-      and refined sound quality metrics.
+      An acoustics enthusiast, expertise in Automotive & Train (Railway) product development with focus on Acoustics (Noise) and Vibration characteristics. Proven innovation of new products using system 
+      and component target setting to achieve customer requirements and refined sound quality metrics.
 education:
     - degree: M.Tech in Automotive Engineering
       university: VIT University
@@ -124,36 +121,26 @@ publications:
         authors: Neihguk, D., Munjal, M., Ram, A., and Prasad, A.
         conference: SAE Int. J. Veh. Dyn., Stab., and NVH 1(2):97-111, 2017.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: COMOSL
+      - name: Concept generation, modeling and simulation
+        level: 98%
+
+      - name: COMSOL Multiphysics
         level: 98%
 
       - name: MATLAB
         level: 98%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: LMS AMESim
         level: 95%
 
-      - name: Ruby on Rails
+      - name: AlphaCell
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Python
         level: 60%
 
 footer: >
