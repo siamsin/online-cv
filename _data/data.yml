@@ -26,14 +26,8 @@ sidebar:
       - idiom: Hindi
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
-
     interests:
       - item: Climbing
-        link:
-
-      - item: Snowboarding
         link:
 
       - item: Cooking
@@ -68,7 +62,7 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Acoustics Engineer
+    - role: Acoustics and Vibration Engineer
       time: 2017 - Present
       company: Bombardier Transportation, Hyderabad, India
       details: |
@@ -100,8 +94,6 @@ experiences:
       company: BARC, Mumbai
 projects:
     title: Projects
-    intro: >
-      Examples of projects undertaken.
     assignments:
       - title: M.Tech Thesis Topic
         link: "#hook"
@@ -113,8 +105,6 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      Examples of research output.
     papers:
       - title: Acoustic Analysis of a Compact Muffler for Automotive Application
         url: https://doi.org/10.4271/2017-01-9550
