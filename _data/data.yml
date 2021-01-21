@@ -32,7 +32,6 @@ sidebar:
 
       - item: Cooking
         link:
-
 career-profile:
     title: Career Profile
     summary: |
@@ -89,9 +88,6 @@ experiences:
         steering hose, to name a few.
           - Passenger Cars
           - Commercial vehicles
-    - role: Internship
-      time: June 2009 - July 2009
-      company: BARC, Mumbai
 projects:
     title: Projects
     assignments:
@@ -102,10 +98,8 @@ projects:
       - title: B.Tech Thesis Topic
         link: "#"
         tagline: "Stress analysis of a Functionally Graded Materials."
-
 skills:
     title: Skills &amp; Proficiency
-
     toolset:
       - name: Concept generation, modeling and simulation
         level: 98%
