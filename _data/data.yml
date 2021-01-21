@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: David Neihguk
-    tagline: Acoustics Engineer
+    tagline: Acoustics & Vibration Engineer
     avatar: davidneihguk.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -102,14 +102,6 @@ projects:
       - title: B.Tech Thesis Topic
         link: "#"
         tagline: "Stress analysis of a Functionally Graded Materials."
-
-publications:
-    title: Publications
-    papers:
-      - title: Acoustic Analysis of a Compact Muffler for Automotive Application
-        url: https://doi.org/10.4271/2017-01-9550
-        authors: Neihguk, D., Munjal, M., Ram, A., and Prasad, A.
-        conference: SAE Int. J. Veh. Dyn., Stab., and NVH 1(2):97-111, 2017.
 
 skills:
     title: Skills &amp; Proficiency
